@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Scientific Calc",
+  "description": "A dual-mode scientific calculator featuring a robust standard interface and a Gemini-powered AI math tutor for natural language problem solving.",
+  "requestFramePermissions": []
+}
